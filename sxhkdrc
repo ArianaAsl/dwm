@@ -1,0 +1,18 @@
+#
+# wm independent hotkeys
+#
+
+# terminal emulator
+# super + Return
+#	alacritty
+
+# super + @x
+#	xterm
+#
+#super + @w
+#	firefox
+
+mod1 + space 
+	xkb-switch -n
+ctrl + space
+	xkb-switch -n	
