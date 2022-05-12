@@ -7,3 +7,4 @@ for colors in bar you must delete the "iscol" parameter in the C code (which I h
 
 xinitrc goes with the startx for all display managements and starting dwm and autostarting most things.
 
+Credit for the alacritty conf goes to dt, I've just removed the bloat and the colors I care for.
